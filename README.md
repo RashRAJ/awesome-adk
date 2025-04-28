@@ -21,34 +21,25 @@ Google ADK (Application Development Kit) enables developers to build, connect, a
 ---
 
 ## Official Resources
-- [Google ADK Official Site](https://developers.google.com/adk) <!-- Update if different -->
-- [ADK Documentation](https://developers.google.com/adk/docs)
-- [Google Developers Blog](https://developers.googleblog.com/)
+- [Google ADK Official Site](https://google.github.io/adk-docs/) <!-- Update if different -->
+- [ADK Documentation](https://google.github.io/adk-docs/get-started/)
+- [Agent Development Kit Announcement Blog](https://developers.googleblog.com/en/agent-development-kit-easy-to-build-multi-agent-applications/)
+- [ADK GitHub Repository](https://github.com/google/adk-docs)
 
 ## Getting Started
-- [Quickstart Guide](https://developers.google.com/adk/quickstart)
-- [Setting Up ADK Environment](https://developers.google.com/adk/setup)
+- [Quickstart Guide](https://google.github.io/adk-docs/get-started/quickstart/)
+- [Setting Up ADK Environment](https://google.github.io/adk-docs/get-started/installation/)
 
 ## Tutorials
-- [Building Your First ADK App](https://developers.google.com/adk/tutorials/first-app)
-- [Connecting Devices via ADK](https://developers.google.com/adk/tutorials/connect-devices)
-
-## Tools and Libraries
-- [ADK SDK](https://developers.google.com/adk/sdk)
-- [ADK Emulator](https://developers.google.com/adk/emulator)
-- [ADK CLI Tools](https://developers.google.com/adk/cli)
-
-## Sample Projects
-- [ADK Smart Home Demo](https://github.com/google/adk-smart-home)
-- [Connected Car Example](https://github.com/google/adk-car-demo)
+- [Google Agent Development Kit (ADK) Python Tutorial](https://github.com/Kjdragan/google-adk-tutorial)
+- [Google ADK Walkthrough](https://github.com/sokart/adk-walkthrough)
+- 
 
 ## Videos and Talks
-- [Intro to ADK (Google I/O)](https://www.youtube.com/watch?v=XXXXXX)
-- [Deep Dive into Google ADK](https://www.youtube.com/watch?v=XXXXXX)
+- [Getting Started with ADK -Official Google Video](https://www.youtube.com/watch?v=44C8u0CDtSo&ab_channel=GoogleforDevelopers)
+- [Build AI Agent Application with Agent Development Kit](https://www.youtube.com/watch?v=RgLSTGFjpqI&t=1s&ab_channel=VenelinValkov)
+- 
 
-## Community and Meetups
-- [Google Developers Groups](https://developers.google.com/community/gdg)
-- [Stack Overflow Tag](https://stackoverflow.com/questions/tagged/google-adk)
 
 ---
 
@@ -59,5 +50,8 @@ Contributions are welcome! Please check the [contribution guidelines](CONTRIBUTI
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
+
+## Author
+Rasheedat Atinuke Jamiu
 
 ---
