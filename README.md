@@ -33,13 +33,21 @@ Google ADK (Application Development Kit) enables developers to build, connect, a
 ## Tutorials
 - [Google Agent Development Kit (ADK) Python Tutorial](https://github.com/Kjdragan/google-adk-tutorial)
 - [Google ADK Walkthrough](https://github.com/sokart/adk-walkthrough)
-- 
+- [Communicating Between uAgents and Google ADK](https://medium.com/fetch-ai/communicating-between-uagents-and-google-adk-a-step-by-step-guide-c15f355a8dcf)
+- [Connect Airbnb MCP Server with Google ADK — MCP and Agent Development Kit](https://medium.aiplanet.com/connect-airbnb-mcp-server-with-google-adk-mcp-and-agent-development-kit-3a3976b7b4ec)
+- [build a multi-agent travel assistant using Google's Agent Development Kit (ADK)](https://www.datacamp.com/tutorial/agent-development-kit-adk)
+
+  
+## Tools and Libraries
+- [Vertex AI Agent Garden](https://console.cloud.google.com/vertex-ai/agents/agent-garden?)
+
+## Sample Projects
+- [Agent Development Kit (ADK) Samples](https://github.com/google/adk-samples)
+- [ADK-Powered Travel Planner](https://github.com/AashiDutt/Google-Agent-Development-Kit-Demo)
 
 ## Videos and Talks
 - [Getting Started with ADK -Official Google Video](https://www.youtube.com/watch?v=44C8u0CDtSo&ab_channel=GoogleforDevelopers)
 - [Build AI Agent Application with Agent Development Kit](https://www.youtube.com/watch?v=RgLSTGFjpqI&t=1s&ab_channel=VenelinValkov)
-- 
-
 
 ---
 
