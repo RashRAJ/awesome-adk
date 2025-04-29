@@ -1,0 +1,4 @@
+default: true
+MD013: false  # Disable line length rule
+MD033: false  # Allow inline HTML
+MD041: false  # Allow files without a top-level heading
