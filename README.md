@@ -1,9 +1,8 @@
 # Awesome Google ADK [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome resources, tools, libraries, and learning material about Google Application Development Kit (ADK).
+> A curated list of awesome resources, tools, libraries, tutorials, and references for Google's Agent Development Kit (ADK) — your guide to building powerful multi-agent applications.
 
-Google ADK (Application Development Kit) enables developers to build, connect, and manage applications seamlessly across Google's services and devices. This awesome list gathers everything you need to master ADK.
-
+Google’s Agent Development Kit (ADK) empowers developers to build, connect, and manage multi-agent applications across Google's AI ecosystem. This list collects everything you need to get started, deepen your skills, and build production-ready agent systems.
 ---
 
 ## Contents
