@@ -1,0 +1,11 @@
+matrix:
+  include:
+    - name: Markdown Files
+      sources:
+        - '**/*.md'
+      dictionary: en_US
+      encoding: utf-8
+      exclude:
+        - .github/**
+        - node_modules/**
+        - vendor/**
