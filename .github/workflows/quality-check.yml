@@ -29,6 +29,6 @@ jobs:
           files: '**/*.md'
 
       - name: Spell Check
-        uses: rojopolis/spellcheck-github-actions@v0.47.0
+        uses: rojopolis/spellcheck-github-actions
         with:
           config_path: .spellcheck.yml
