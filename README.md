@@ -1,3 +1,5 @@
+![Alt text](image.png)
+
 # Awesome Google ADK [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome resources, tools, libraries, tutorials, and references for Google's Agent Development Kit (ADK) — your guide to building powerful multi-agent applications.
