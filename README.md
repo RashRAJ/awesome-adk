@@ -1,4 +1,4 @@
-![Alt text](image.png)
+<img src="images.png" alt="Alt text" width="1000"/>
 
 # Awesome Google ADK [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
