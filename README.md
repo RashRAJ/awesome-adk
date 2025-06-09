@@ -30,12 +30,21 @@ Google’s Agent Development Kit (ADK) empowers developers to build, connect, an
 - [Quickstart Guide](https://google.github.io/adk-docs/get-started/quickstart/)
 - [Setting Up ADK Environment](https://google.github.io/adk-docs/get-started/installation/)
 
+## Related Repositories
+- [Agent2Agent (A2A) Samples](https://github.com/google-a2a/a2a-samples) A  repository contains code samples and demos which use the Agent2Agent (A2A) Protocol.
+- [A2A](https://github.com/google-a2a/A2A) - A2A Specification and documentation.
+- [a2a-python](https://github.com/google-a2a/a2a-python) - A2A Python SDK.
+- [adk-java](https://github.com/google/adk-java) - Agent Development Kit (ADK) for Java
+- [adk-docs](https://github.com/google/adk-docs) ADK Documentation
+
+
 ## Tutorials
+### Python
 - [Google Agent Development Kit (ADK) Python Tutorial](https://github.com/Kjdragan/google-adk-tutorial)
 - [Google ADK Walkthrough](https://github.com/sokart/adk-walkthrough)
 - [Communicating Between uAgents and Google ADK](https://medium.com/fetch-ai/communicating-between-uagents-and-google-adk-a-step-by-step-guide-c15f355a8dcf)
 - [Connect Airbnb MCP Server with Google ADK — MCP and Agent Development Kit](https://medium.aiplanet.com/connect-airbnb-mcp-server-with-google-adk-mcp-and-agent-development-kit-3a3976b7b4ec)
-- [build a multi-agent travel assistant using Google's Agent Development Kit (ADK)](https://www.datacamp.com/tutorial/agent-development-kit-adk)
+- [Build a multi-agent travel assistant using Google's Agent Development Kit (ADK)](https://www.datacamp.com/tutorial/agent-development-kit-adk)
 - [Building AI Agents with Google’s Agent Development Kit (ADK) as MCP Client — A Deep Dive](https://medium.com/google-cloud/building-ai-agents-with-googles-agent-development-kit-adk-as-mcp-client-a-deep-dive-full-54d683713afe)
 - [Building AI Agents with Google ADK, FastAPI, and MCP](https://dev.to/timtech4u/building-ai-agents-with-google-adk-fastapi-and-mcp-26h7)
 - [Building AI Agents with Google ADK, Gemma 3, and MCP Tools](https://medium.com/google-cloud/building-ai-agents-with-google-adk-gemma-3-and-mcp-tools-28763a8f3c62)
@@ -53,6 +62,10 @@ Google’s Agent Development Kit (ADK) empowers developers to build, connect, an
 - [Building a Production-Ready AI Content Moderation System with Google ADK and Model Context Protocol (MCP)](https://medium.com/google-cloud/building-a-production-ready-ai-content-moderation-system-with-google-adk-and-model-context-protocol-8a3cf4a798f9)
 - [ADK meets MCP: Bridging Worlds of AI Agents](https://medium.com/google-cloud/adk-meets-mcp-bridging-worlds-of-ai-agents-1ed96ef5399c)
 - [Google ADK Agent-to-Agent: Automating DCF Models with AI (ADK Web & Python API)](https://medium.com/google-cloud/google-adk-agent-to-agent-automating-dcf-models-with-ai-adk-web-python-api-18945f7af3f0)
+### Java
+- [Write AI agents in Java — Agent Development Kit getting started guide](https://medium.com/google-cloud/build-powerful-stateful-ai-agents-in-java-with-agent-development-kit-adk-0f7e2cd3d094)
+- [Build Powerful, Stateful AI Agents in Java with Agent Development Kit (ADK)](https://medium.com/google-cloud/build-powerful-stateful-ai-agents-in-java-with-agent-development-kit-adk-0f7e2cd3d094)
+
 
 
 ## Codelabs
@@ -72,6 +85,7 @@ Google’s Agent Development Kit (ADK) empowers developers to build, connect, an
 - [GitHub Agent with Google ADK and OpenAPI Tools using Gemini 2.5 Pro](https://github.com/arjunprabhulal/adk-github-agent?source=post_page-----82abc326b288---------------------------------------) by [@arjunprabhulal](https://github.com/arjunprabhulal)
 
 ## Videos and Talks
+### PYTHON
 - [Getting Started with ADK -Official Google Video](https://www.youtube.com/watch?v=44C8u0CDtSo&ab_channel=GoogleforDevelopers)
 - [Build AI Agent Application with Agent Development Kit](https://www.youtube.com/watch?v=RgLSTGFjpqI&t=1s&ab_channel=VenelinValkov)
 - [Build Your First AI Agent With Google ADK in Minutes!](https://youtu.be/QN14IFM9s04?si=VR1QXK_giqQ-No0v)
@@ -80,6 +94,10 @@ Google’s Agent Development Kit (ADK) empowers developers to build, connect, an
 - [How to build a Data Science agent with ADK](https://youtu.be/efcUXoMX818?si=IwI5ZGynaZXC46Rg)
 - [Forget MCP... don't sleep on the Google Agent Development Kit (ADK) - Full tutorial](https://youtu.be/BiP4tKZKTvU?si=ILwORdHt4FjYjUEa)
 - [A2A Course #3 - Build an A2A Agent with Google ADK + Gemini ](https://youtu.be/DDaDV1wXNgg?si=_zMGR-TbKwQBEVfu)
+### Java
+- [Build your first Java agent with Google ADK](https://youtu.be/VM3b3csBeUc?si=o626xujV15SLXwQe)
+- [Building AI Agents with Google ADK and Java | Complete Tutorial with MCP Tools & Gemini 2.0](https://youtu.be/-2qfiQSuAo8?si=5tBsF6IhYnJzdUaB)
+  
 
 ---
 
