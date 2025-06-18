@@ -73,6 +73,7 @@ Google’s Agent Development Kit (ADK) empowers developers to build, connect, an
 - [Installing and Setting-up MCP Toolbox for Databases for your Gen AI & Agentic Applications on AlloyDB](https://codelabs.developers.google.com/genai-toolbox-for-alloydb#0)
 - [MCP Toolbox for Databases:Making BigQuery datasets available to MCP clients](https://codelabs.developers.google.com/mcp-toolbox-bigquery-dataset#0)
 - [Build a Travel Agent using MCP Toolbox for Databases and Agent Development Kit (ADK)](https://codelabs.developers.google.com/travel-agent-mcp-toolbox-adk?hl=en#0)
+- [Google's Agent Stack in Action:ADK, A2A, MCP on Google Cloud](https://codelabs.developers.google.com/instavibe-adk-multi-agents/instructions#0)
   
 ## Tools and Libraries
 - [Vertex AI Agent Garden](https://console.cloud.google.com/vertex-ai/agents/agent-garden?)
