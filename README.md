@@ -69,6 +69,7 @@ Google’s Agent Development Kit (ADK) empowers developers to build, connect, an
 
 
 ## Codelabs
+- [Getting Started with MCP, ADK and A2A](https://codelabs.developers.google.com/codelabs/currency-agent?hl=en#0)
 - [Going Multimodal with Agent Development Kit: Personal Expense Assistant with Gemini 2.5, Firestore and Cloud Run](https://codelabs.developers.google.com/personal-expense-assistant-multimodal-adk#0)
 - [Installing and Setting-up MCP Toolbox for Databases for your Gen AI & Agentic Applications on AlloyDB](https://codelabs.developers.google.com/genai-toolbox-for-alloydb#0)
 - [MCP Toolbox for Databases:Making BigQuery datasets available to MCP clients](https://codelabs.developers.google.com/mcp-toolbox-bigquery-dataset#0)
