@@ -85,6 +85,9 @@ Google’s Agent Development Kit (ADK) empowers developers to build, connect, an
 - [US Stock Market AI Agent](https://github.com/RashRAJ/stockAIAgent) by [@RashRAJ](https://github.com/RashRAJ/)
 - [Building an Agent with long-term memory using ADK and Zep](https://github.com/inardini/agent-samples/blob/main/samples/adk_memory_zep.ipynb) by [@inardini](https://github.com/inardini)
 - [GitHub Agent with Google ADK and OpenAPI Tools using Gemini 2.5 Pro](https://github.com/arjunprabhulal/adk-github-agent?source=post_page-----82abc326b288---------------------------------------) by [@arjunprabhulal](https://github.com/arjunprabhulal)
+- [repo-stargazer](https://github.com/ksachdeva/repo-stargazer) by [@ksachdeva](https://github.com/ksachdeva/)
+- [ADK-cs-agents-demo](https://github.com/ksachdeva/adk-cs-agents-demo) by [@ksachdeva](https://github.com/ksachdeva/)
+- [ADK-Recipes](https://github.com/ksachdeva/adk-recipes) by [@ksachdeva](https://github.com/ksachdeva/)
 
 ## Videos and Talks
 ### PYTHON
