@@ -78,6 +78,7 @@ Google’s Agent Development Kit (ADK) empowers developers to build, connect, an
   
 ## Tools and Libraries
 - [Vertex AI Agent Garden](https://console.cloud.google.com/vertex-ai/agents/agent-garden?)
+- [Regulus](https://github.com/neul-labs/regulus) - Open-source EU & UK compliance plane for Google ADK. Runtime `BasePlugin` suite encoding 10 regulations (EU AI Act, GDPR, DORA, NIS2, EHDS, UK GDPR, FCA SYSC, PRA SS1/23, PRA SS2/21, NHS DSPT) with PII redaction, dual-control kill switch, fail-closed data residency, hash-chained audit envelopes, and GRC adapters. Java 21, MIT, Maven `com.neullabs:regulus-ai-adk-plugins`.
 
 ## Sample Projects
 - [Agent Development Kit (ADK) Samples](https://github.com/google/adk-samples)
