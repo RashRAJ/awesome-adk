@@ -62,6 +62,7 @@ Google’s Agent Development Kit (ADK) empowers developers to build, connect, an
 - [Building a Production-Ready AI Content Moderation System with Google ADK and Model Context Protocol (MCP)](https://medium.com/google-cloud/building-a-production-ready-ai-content-moderation-system-with-google-adk-and-model-context-protocol-8a3cf4a798f9)
 - [ADK meets MCP: Bridging Worlds of AI Agents](https://medium.com/google-cloud/adk-meets-mcp-bridging-worlds-of-ai-agents-1ed96ef5399c)
 - [Google ADK Agent-to-Agent: Automating DCF Models with AI (ADK Web & Python API)](https://medium.com/google-cloud/google-adk-agent-to-agent-automating-dcf-models-with-ai-adk-web-python-api-18945f7af3f0)
+- [Google ADK 2.x: Production AI Agents (Visual Notes, 96 pages)](https://github.com/himanshu231204/google-adk) - Free illustrated guide from first agent to graph workflows, multi-agent systems, memory, guardrails, evaluation and deployment.
 ### Java
 - [Write AI agents in Java — Agent Development Kit getting started guide](https://medium.com/google-cloud/build-powerful-stateful-ai-agents-in-java-with-agent-development-kit-adk-0f7e2cd3d094)
 - [Build Powerful, Stateful AI Agents in Java with Agent Development Kit (ADK)](https://medium.com/google-cloud/build-powerful-stateful-ai-agents-in-java-with-agent-development-kit-adk-0f7e2cd3d094)
